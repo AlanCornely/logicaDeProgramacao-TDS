@@ -5,7 +5,7 @@ int main (){
      printf("Digite o número: ");
     scanf("%d", &num1);
     int num2;
-     printf("Digite o número: ");
+     printf("Digite o 2° número: ");
     scanf("%d", &num2);
     
     int soma = num1 + num2;
