@@ -7,4 +7,6 @@ int main () {
 
     int dobro = num1 * 2;
     printf("o dobro do numero é: (%d * 2) = %d\n", num1, dobro);
+
+return 0
 }
